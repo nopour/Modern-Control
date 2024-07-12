@@ -12,3 +12,6 @@ Professor Mayhar Naraghi
 > All in ENGLISH, questions are from 
 >  Control System Design by Bernard Friedland (Dover Publications)
 > Modern Control Engineering by Katsuhiko Ogata
+
+> [!IMPORTANT]
+> Top Student GPA: 4 / 4 
